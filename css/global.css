@@ -1,11 +1,18 @@
+.navbar-brand {
+  max-width: 200px;
+}
 h1 {
   font-size: 60px;
 }
 .container-fluid {
   margin: 0 !important;
-  padding: 0 !important;
+  padding: 0 15px 0 15px !important;
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 .share-section {
   background: url("../img/blue-bg.svg") no-repeat;
   background-size: auto;
@@ -30,4 +37,20 @@ h1 {
 
 img.messaging {
   max-width: 350px;
+}
+
+.passion-section {
+  background: url("../img/orange-bg.svg") no-repeat center;
+  background-size: auto;
+  background-size: cover;
+  padding: 3rem 1rem;
+}
+
+.avatar {
+  max-width: 120px;
+}
+
+footer {
+  background-color: #fce6df !important;
+  padding: 15px;
 }

@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <title>Creatorhive</title>
   <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/global.css?v=1.2">
+  <link href="css/all.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/global.css?v=1.5">
 </head>
 
 <body>

@@ -4,27 +4,23 @@
 
 <div class="container-fluid">
 
-	<div class="jumbotron jumbotron-fluid">
+	<div class="jumbotron jumbotron-fluid mt-5">
 		<div class="col-md-6 mx-auto text-center">
-			<h1>A contact page for Influencers</h1>
-			<button type="button" class="btn btn-primary">Start my page</button>
+			<h1>A contact page for <span class="text-primary">Influencers</span></h1>
+			<button type="button" class="btn sign-up-btn">Start my page</button>
 			<p>It’s free, and takes less than a minute</p>
 		</div>
-		<div class="col-md-6 mx-auto text-center">
-			<h1>Let anyone message you by paying what they want</h1>
-			<p>Get a Superpage & allow your fans to send youmessages Supertexts. Interact with peeps who need you the most by parallelly funding your passion</p>
+		<div class="col-md-6 mx-auto text-center mt-5">
+			<h3>Let anyone message you by paying what they want</h3>
+			<p>Get a SuperReply & allow your fans to send youmessages Supertexts. Interact with peeps who need you the most by parallelly funding your passion</p>
 			<p><a href="#">Try demo</a></p>
 		</div>
 	</div>
-
-
-
-
 </div>
 
 
 
-<div class="share-section text-center">
+<div class="share-section text-center mt-5">
 	<h3>Share it anywhere</h3>
 	<div class="container">
 		<div class="row mt-5">
@@ -56,7 +52,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-6 mt-5">
-			<h1 class="text-center mt-5">Engineered for Influencers</h1>
+			<h1 class="text-center mt-5">Engineered for <span class="text-primary">Influencers</span></h1>
 		</div>
 
 		<div class="col-md-6 row">
@@ -100,7 +96,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 text-center">
-				<img src="img/restricted-messaging.png" class="img-fluid messaging" />
+				<img src="img/step2.png" class="img-fluid" />
 			</div>
 
 			<div class="col-md-6">
@@ -108,34 +104,34 @@
 
 
 
-				<div class="card flex-row flex-wrap">
-					<div class="card-header border-0">
-						<img src="//placehold.it/50" alt="">
+				<div class="card flex-row flex-wrap border-0 bg-none">
+					<div class="card-header border-0 bg-none">
+						<i class="text-secondary fas fa-exclamation-triangle fa-2x"></i>
 					</div>
-					<div class="card-block px-2">
-						<h5 class="card-title">Restricted Messaging</h5>
-						<p class="card-text">Supertext conversations are limited to your responses</p>
-					</div>
-				</div>
-
-
-				<div class="card flex-row flex-wrap mt-3">
-					<div class="card-header border-0">
-						<img src="//placehold.it/50" alt="">
-					</div>
-					<div class="card-block px-2">
-						<h5 class="card-title">Refunds</h5>
-						<p class="card-text">Don’t like a conversation? Refund at any time</p>
+					<div class="card-block px-2 bg-none">
+						<h5 class="card-title text-secondary">Restricted Messaging</h5>
+						<p class="card-text text-muted">Supertext conversations are limited to your responses</p>
 					</div>
 				</div>
 
-				<div class="card flex-row flex-wrap mt-3">
-					<div class="card-header border-0">
-						<img src="//placehold.it/50" alt="">
+
+				<div class="card flex-row flex-wrap mt-5 border-0 bg-none">
+					<div class="card-header border-0 bg-none">
+						<i class="fas fa-undo-alt fa-2x text-secondary"></i>
+					</div>
+					<div class="card-block px-2 bg-none">
+						<h5 class="card-title text-secondary">Refunds</h5>
+						<p class="card-text text-muted">Don’t like a conversation? Refund at any time</p>
+					</div>
+				</div>
+
+				<div class="card flex-row flex-wrap mt-5 border-0 bg-none">
+					<div class="card-header border-0 bg-none">
+						<i class="far fa-comments fa-2x text-secondary"></i>
 					</div>
 					<div class="card-block px-2">
-						<h5 class="card-title">Asynchronous</h5>
-						<p class="card-text">No time-limits or slots, just chat like how you usually do on DMs</p>
+						<h5 class="card-title text-secondary">Asynchronous</h5>
+						<p class="card-text text-muted">No time-limits or slots, just chat like how you usually do on DMs</p>
 					</div>
 				</div>
 
@@ -149,7 +145,7 @@
 
 	<h1>A neat Dashboard!</h1>
 	<p>Respond to messages, track earnings.. simply manage all fan interactions from one space</p>
-	<img src="img/dashboard.png" class="img-fluid" />
+	<img src="img/why.png" class="img-fluid" />
 </div>
 
 <div class="control-section">
@@ -191,22 +187,19 @@
 </div>
 
 
-<div class="col-md-8 mx-auto">
-	<h1 class="text-center">Earnings Calculator</h1>
-	<h3 class="text-center">$2,750</h3>
-	<p class="text-center">Monthly</p>
-</div>
-
-
-
-
-<div class="passion-section text-center">
+<div class="col-md-8 mx-auto mt-5 text-center">
 	<h1>A new way to fund your passion</h1>
 	<p>Get paid directly on your bank account. No holding period, no gimmicks!</p>
 </div>
 
-<div class="col-md-8 mx-auto">
-	<h1 class="text-center">100s of creators from across the globe got their Superpages</h1>
+
+
+
+<div class="col-md-8 mx-auto text-center mt-5">
+	<div class="col-md-8 mx-auto">
+		<h2 class="text-center">100s of creators from across the globe got their SuperReplys</h2>
+	</div>
+
 	<div class="row">
 		<div class="col text-center">
 			<img src="img/profile.webp" class="rounded-circle avatar" />
@@ -264,7 +257,7 @@
 
 <div class="col-md-12 text-center">
 	<h1 class="text-center mt-5">Get your contact page</h1>
-	<button type="button" class="btn btn-primary">Start my page</button>
+	<button type="button" class="btn btn-primary sign-up-btn">Start my page</button>
 	<p>It’s free, and takes less than a minute</p>
 </div>
 

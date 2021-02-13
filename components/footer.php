@@ -1,4 +1,4 @@
-<footer class="footer">
+<footer class="footer mt-5">
   <div class="container">
     <ul class="list-inline float-start">
       <li class="list-inline-item"><a href="#">FAQ</a></li>

@@ -1,8 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap");
+
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #9360ea;
+}
+
+.bg-none {
+  background: none !important;
+}
+.text-primary {
+  color: #556be3 !important;
+}
+.text-secondary {
+  color: #9360ea !important;
+}
 .navbar-brand {
   max-width: 200px;
 }
 h1 {
   font-size: 60px;
+  font-weight: 700;
 }
 .container-fluid {
   margin: 0 !important;
@@ -13,6 +34,20 @@ h1 {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.bg-light {
+  background-color: #fff !important;
+}
+
+.sign-up-btn {
+  background: #9360ea;
+  padding: 12px 53px !important;
+  font-size: 15px !important;
+  border-radius: 50px;
+  color: #ffffff !important;
+  border: 2px solid #9360ea;
+}
+
 .share-section {
   background: url("../img/blue-bg.svg") no-repeat;
   background-size: auto;
@@ -51,6 +86,6 @@ img.messaging {
 }
 
 footer {
-  background-color: #fce6df !important;
-  padding: 15px;
+  background-color: #f7f7f7 !important;
+  padding: 30px 15px 15px 15px;
 }

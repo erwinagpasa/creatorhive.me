@@ -8,7 +8,7 @@
   <title>Creatorhive</title>
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link href="css/all.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/global.css?v=1.7">
+  <link rel="stylesheet" href="css/global.css?v=1.9">
 </head>
 
 <body>

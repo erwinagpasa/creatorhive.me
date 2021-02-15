@@ -1,15 +1,11 @@
 <footer class="footer mt-5">
   <div class="container">
-    <ul class="list-inline float-start">
-      <li class="list-inline-item"><a href="faqs-for-influencers.php">FAQ</a></li>
-      <li class="list-inline-item"><a href="help.php">Help</a></li>
-      <li class="list-inline-item"><a href="terms.php">Terms</a></li>
-      <li class="list-inline-item"><a href="privacy.php">Privacy</a></li>
-      <li class="list-inline-item"><a href="mailto:hey@superreply.to">Contact</a></li>
-    </ul>
+    <h4 class="text-center"><strong>Get support from real people</strong></h4>
+    <p class="text-center">When you are stuck on something don’t waste your time.<br />Just let us know, we are here to help you.</p>
+    <p class="text-center"><a href="index.php">SuperReply Home</a></p>
 
 
-    <ul class="list-inline float-end">
+    <ul class="list-inline text-center">
       <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
       <li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
       <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-square"></i></a></li>

@@ -85,6 +85,42 @@ img.messaging {
   max-width: 120px;
 }
 
+.avatar2 {
+  max-width: 60px;
+}
+
+.help-text {
+  padding-top: 15px;
+  color: #000;
+}
+
+.btn-search {
+  background-color: #5694e7;
+  color: #fff;
+}
+
+.sub-header {
+  background: #9360ea;
+  padding: 10px 0 30px 0px;
+  margin-bottom: 15px;
+}
+
+.sub-header h3 {
+  color: #fff;
+}
+
+.form-control-borderless {
+  border: none;
+}
+
+.form-control-borderless:hover,
+.form-control-borderless:active,
+.form-control-borderless:focus {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
 footer {
   background-color: #f7f7f7 !important;
   padding: 30px 15px 15px 15px;

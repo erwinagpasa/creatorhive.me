@@ -7,13 +7,13 @@
 	<div class="jumbotron jumbotron-fluid mt-5">
 		<div class="col-md-6 mx-auto text-center">
 			<h1>A contact page for <span class="text-primary">Influencers</span></h1>
-			<button type="button" class="btn sign-up-btn">Start my page</button>
+			<button type="button" class="btn sign-up-btn" data-bs-toggle="modal" data-bs-target="#startModal">Start my page</button>
 			<p>It’s free, and takes less than a minute</p>
 		</div>
 		<div class="col-md-6 mx-auto text-center mt-5">
 			<h3>Let anyone message you by paying what they want</h3>
 			<p>Get a SuperReply & allow your fans to send youmessages Supertexts. Interact with peeps who need you the most by parallelly funding your passion</p>
-			<p><a href="#">Try demo</a></p>
+			<p><a href="#" data-bs-toggle="modal" data-bs-target="#startModal">Try demo</a></p>
 		</div>
 	</div>
 </div>
@@ -257,9 +257,10 @@
 
 <div class="col-md-12 text-center">
 	<h1 class="text-center mt-5">Get your contact page</h1>
-	<button type="button" class="btn btn-primary sign-up-btn">Start my page</button>
+	<button type="button" class="btn btn-primary sign-up-btn" data-bs-toggle="modal" data-bs-target="#startModal">Start my page</button>
 	<p>It’s free, and takes less than a minute</p>
 </div>
+
 
 
 

@@ -49,7 +49,7 @@
 
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title"><a href="#">What is SuperReply?</a></h5>
+        <h5 class="card-title"><a href="What-is-SuperReply.php">What is SuperReply?</a></h5>
         <div class="card flex-row flex-wrap border-0 bg-none">
           <div class="card-header border-0 bg-none">
             <img src="img/250.png" class="rounded-circle avatar2" />
@@ -65,24 +65,7 @@
 
     <div class="card mt-3">
       <div class="card-body">
-        <h5 class="card-title"><a href="#">Who can get a SuperReply?</a></h5>
-        <div class="card flex-row flex-wrap border-0 bg-none">
-          <div class="card-header border-0 bg-none">
-            <img src="img/250.png" class="rounded-circle avatar2" />
-          </div>
-          <div class="card-block px-2 bg-none">
-            <p class="card-title help-text">Written by Jane<br />
-              <span class="text-muted">Last update 1 month ago</span>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-    <div class="card mt-3">
-      <div class="card-body">
-        <h5 class="card-title"><a href="#">How does it work?</a></h5>
+        <h5 class="card-title"><a href="Who-can-get-a-SuperReply.php">Who can get a SuperReply?</a></h5>
         <div class="card flex-row flex-wrap border-0 bg-none">
           <div class="card-header border-0 bg-none">
             <img src="img/250.png" class="rounded-circle avatar2" />
@@ -99,7 +82,7 @@
 
     <div class="card mt-3">
       <div class="card-body">
-        <h5 class="card-title"><a href="#">What are the charges?</a></h5>
+        <h5 class="card-title"><a href="How-does-it-work.php">How does it work?</a></h5>
         <div class="card flex-row flex-wrap border-0 bg-none">
           <div class="card-header border-0 bg-none">
             <img src="img/250.png" class="rounded-circle avatar2" />
@@ -116,7 +99,24 @@
 
     <div class="card mt-3">
       <div class="card-body">
-        <h5 class="card-title"><a href="#">How & when do I get paid?</a></h5>
+        <h5 class="card-title"><a href="What-are-the-charges.php">What are the charges?</a></h5>
+        <div class="card flex-row flex-wrap border-0 bg-none">
+          <div class="card-header border-0 bg-none">
+            <img src="img/250.png" class="rounded-circle avatar2" />
+          </div>
+          <div class="card-block px-2 bg-none">
+            <p class="card-title help-text">Written by Jane<br />
+              <span class="text-muted">Last update 1 month ago</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="card mt-3">
+      <div class="card-body">
+        <h5 class="card-title"><a href="How-and-when-do-I-get-paid.php">How & when do I get paid?</a></h5>
         <div class="card flex-row flex-wrap border-0 bg-none">
           <div class="card-header border-0 bg-none">
             <img src="img/250.png" class="rounded-circle avatar2" />
@@ -132,7 +132,7 @@
 
     <div class="card mt-3">
       <div class="card-body">
-        <h5 class="card-title"><a href="#">How do I report a conversation?</a></h5>
+        <h5 class="card-title"><a href="How-do-I-report-a-conversation.php">How do I report a conversation?</a></h5>
         <div class="card flex-row flex-wrap border-0 bg-none">
           <div class="card-header border-0 bg-none">
             <img src="img/250.png" class="rounded-circle avatar2" />

@@ -145,10 +145,10 @@
 
 	<h1>A neat Dashboard!</h1>
 	<p>Respond to messages, track earnings.. simply manage all fan interactions from one space</p>
-	<img src="img/why.png" class="img-fluid" />
+	<img src="img/dashboard.png" class="img-fluid" />
 </div>
 
-<div class="control-section">
+<div class="control-section mt-5">
 	<h1 class="text-center">We made some demos</h1>
 	<div class="container">
 		<div class="row">

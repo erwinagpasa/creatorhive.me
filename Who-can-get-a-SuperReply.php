@@ -41,60 +41,44 @@
   <div class="col-md-8 mx-auto">
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="#">Home</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Help</li>
+        <li class="breadcrumb-item"><a href="faqs-for-influencers.php">Home</a></li>
+        <li class="breadcrumb-item active">FAQs for Influencers</li>
+        <li class="breadcrumb-item active">Who can get a SuperReply?</li>
+
       </ol>
     </nav>
 
 
     <div class="card">
       <div class="card-body">
-
+        <h5 class="card-title"><a href="What-is-SuperReply.php">Who can get a SuperReply?</a></h5>
         <div class="card flex-row flex-wrap border-0 bg-none">
           <div class="card-header border-0 bg-none">
-            <img src="img/commercial.svg" class="" style="width: 80px;" />
+            <img src="img/250.png" class="rounded-circle avatar2" />
           </div>
           <div class="card-block px-2 bg-none">
-            <h5 class="card-title mt-3"><a href="#">Promoting your SuperReply?</a></h5>
-            <small class="text-muted">Written by <a href="#">Srivatsa Mudumby</a> and <a href="#">Jane</a></small>
+            <p class="card-title help-text">Written by Jane<br />
+              <span class="text-muted">Last update 1 month ago</span>
             </p>
           </div>
         </div>
+        <p>SuperReply works great for: </p>
+        <ol>
+          <li> Influencers</li>
+          <li>Creators</li>
+          <li>Artists/Writers</li>
+          <li>Enterpreneurs/Makers</li>
+          <li>Mentors</li>
+          <li>Consultants</li>
+          <li>Or just anyone with an audience on social media.
+          </li>
+        </ol>
+        <p>Plus, you need to link a bank account to accept payments from your followers/mentees/clients. We currently support payouts to the following countries</p>
+
+
       </div>
     </div>
 
-
-    <div class="card mt-3">
-      <div class="card-body">
-        <div class="card flex-row flex-wrap border-0 bg-none">
-          <div class="card-header border-0 bg-none">
-            <img src="img/about.svg" class="" style="width: 80px;" />
-          </div>
-          <div class="card-block px-2 bg-none">
-            <h5 class="card-title mt-3"><a href="faqs-for-influencers.php">FAQs for Influencers</a></h5>
-            <small class="text-muted">Written by <a href="#">Jane</a></small>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-    <div class="card mt-3">
-      <div class="card-body">
-        <div class="card flex-row flex-wrap border-0 bg-none">
-          <div class="card-header border-0 bg-none">
-            <img src="img/security_checked.svg" class="" style="width: 80px;" />
-          </div>
-          <div class="card-block px-2 bg-none">
-            <h5 class="card-title mt-3"><a href="#">Privacy & Safety</a></h5>
-            <p>Safety precaution to keep SuperReply enjoyable for everyone.</p>
-            <small class="text-muted">Written by <a href="#">Jane</a></small>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
 
 
 
